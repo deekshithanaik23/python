@@ -10,4 +10,4 @@ def generateotp(length,size):
         list1.append(rand1)
         rand1=""
     return list1
-print(generateotp(6,10))
+
